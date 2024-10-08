@@ -1,0 +1,2 @@
+- Designed and Constructed a User-Oriented Film watchlist, recommender, and selector. Designed with a password generator and a login system within the application to ensure the security and confidentiality of each user.
+- Used Python and an SQL-based system that could effortlessly obtain movie details from APIs and web scraping. This data could then be used to recommend similar actors, movies, and genres to the user based on what they put in as interest.
