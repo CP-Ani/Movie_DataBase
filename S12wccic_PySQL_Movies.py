@@ -1,8 +1,10 @@
 ##################Initialization information, do not modify ################
 from cis2010utils import StartHere, EndHere
+from imdb import IMDb
 from colorama import Fore
 import pandas as pd
 import sqlite3
+
 ############################################################################
 #
 # Task 2a
