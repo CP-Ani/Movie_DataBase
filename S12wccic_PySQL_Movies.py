@@ -1,6 +1,3 @@
-### S12_PySQL_StarterFile.py  v2
-#  K.Schmitz (c) 2022,2023
-#  Starter File for CIS2010 Session 12, Structured Query Language
 ##################Initialization information, do not modify ################
 from cis2010utils import StartHere, EndHere
 from colorama import Fore
@@ -215,7 +212,7 @@ except :
 # Workshop END
 #
 ###########################################################
-# Collaboration Challenge
+
 #
 # S12ccq Q5
 sqlcc5 = """
@@ -366,9 +363,6 @@ except :
         print("Also consider spelling of your table name, and SQL statements\n" )
 
 
-#Collaboration Challenge End
-###########################################################
-# Individual Challenge
 #
 # S12icq Q2
 sqlic2 = """
